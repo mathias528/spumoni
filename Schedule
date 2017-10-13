@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/4.5.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAjsmVSGKphwS9kX10iQjRhhvTV4vWG-yE",
+    authDomain: "madden-project-67765.firebaseapp.com",
+    databaseURL: "https://madden-project-67765.firebaseio.com",
+    projectId: "madden-project-67765",
+    storageBucket: "madden-project-67765.appspot.com",
+    messagingSenderId: "1091548817328"
+  };
+  firebase.initializeApp(config);
+</script>
